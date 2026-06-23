@@ -35,7 +35,7 @@ Tools        →  Git · GitHub · VS Code
 
 | Project | What it does |
 |---|---|
-| [StudentPath-AI](https://github.com/aalya-gupta05/StudentPath-AI) | AI-powered career guidance agent — helps students explore paths, find skill gaps, and build roadmaps |
+| [StudentPath-AI](https://github.com/aalya-gupta05/StudentPath-AI) | AI-powered career guidance agent — helps students explore paths, find skill gaps and build roadmaps |
 | [Misinformation-Risk-Analyser](https://github.com/aalya-gupta05/Misinformation-Risk-Analyser) | Analyses content to detect and assess misinformation risk |
 
 ---
