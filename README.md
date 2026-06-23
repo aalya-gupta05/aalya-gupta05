@@ -55,7 +55,7 @@ Tools        →  Git · GitHub · VS Code
 I'm always open to collaborating, learning, or just talking about interesting ideas.
 
 <p>
-  <a href="mailto:aalyagupta05@gmail.com">📧 Email me</a>
+  <a href="mailto:aalya_ua2504aih02@iitp.ac.in">📧 Email me</a>
 </p>
 
 ---
