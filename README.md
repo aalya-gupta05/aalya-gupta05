@@ -52,7 +52,7 @@ Tools        →  Git · GitHub · VS Code
 
 ### 📫 Let's connect
 
-I'm always open to collaborating, learning, or just talking about interesting ideas.
+I'm always open to collaborating, learning or just talking about interesting ideas.
 
 <p>
   <a href="mailto:aalya_ua2504aih02@iitp.ac.in">📧 Email me</a>
