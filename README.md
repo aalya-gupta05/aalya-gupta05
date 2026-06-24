@@ -43,9 +43,9 @@ Tools        →  Git · GitHub · VS Code
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aalya-gupta05&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aalya-gupta05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalya-gupta05&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalya-gupta05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="150"/>
 </p>
 
 ---
